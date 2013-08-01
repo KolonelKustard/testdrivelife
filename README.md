@@ -1,0 +1,4 @@
+testdrivelife
+=============
+
+Life asserted
